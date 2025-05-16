@@ -1,7 +1,4 @@
-# Portfolio Website
+## 🚀 Live Preview
 
-## 🔗 Live Demo
-[View it Live](https://ThemedEdits.github.io/Portfolio/)
-
-## 📂 Source Code
-[Visit the GitHub Repository](https://github.com/ThemedEdits/Portfolio/)
+Check out the live version here:  
+👉 [Click to View](https://themededits.github.io/Portfolio/)
